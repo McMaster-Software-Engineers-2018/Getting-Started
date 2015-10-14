@@ -1,7 +1,7 @@
 # Welcome to the McMaster Software Engineers 2018 Unofficial GitHub
 
 ## Networking
-With the entire class in one organization, you can easily find the GitHub `profiles` of others.  
+With the entire class in one organization, you can easily find the GitHub profiles of others.  
 
 ## Collaborate on Software Projects
 Creating a `repository` here will allow other students to join in!
