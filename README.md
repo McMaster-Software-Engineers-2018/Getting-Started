@@ -4,7 +4,7 @@
 With the entire class in one organization, you can easily find the GitHub profiles of others.  
 
 ## Collaborate on Software Projects
-Creating a `repository` here will allow other students to join in!
+Creating a `repository` here will allow other students to join in! Every member has full administrator privileges.
 
 _Have an interesting idea for a project but don't know where to start?_
 
@@ -23,4 +23,5 @@ Click `Issues` at the top right of this page, then click the big green button th
  
  
  
-###### NOTE: Everything on this GitHub is public and acts of academic dishonesty will NOT be tolerated.
+###### Everything on this GitHub is public and acts of academic dishonesty will NOT be tolerated.
+###### Abuse of administrator privileges (such as defacing code, wrongly deleting, etc.) will lead to reduced privleges and potentially removal from the organization.
