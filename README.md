@@ -4,4 +4,4 @@
 With the entire class in one organization, you can easily find the GitHub profiles of others.  
 
 
-### NOTE: Everything on this GitHub is public and acts of academic dishonesty will NOT be tolerated.
+###### NOTE: Everything on this GitHub is public and acts of academic dishonesty will NOT be tolerated.
