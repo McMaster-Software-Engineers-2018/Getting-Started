@@ -11,11 +11,14 @@ Creating a repository here will allow other students to join in!
 
 *Have an interesting idea for a project but don't know where to start?*  
 
-Just create a new repository and pitch your idea in a new Issue.
+Just create a new repository and pitch your idea in a new Issue in this repository.
 
-&nbsp;
+## New To GitHub?
+Github is the most popular way to share and collaborate on code right now, but can seem a little strange at first.  
 
-&nbsp;
+First try one of the many great tutorials out there and, if you're still stumped, try raising an issue here!
+
+Click `Issues` at the top right of this page, then click the big green button that says `New issue`.
 
 &nbsp;
 
