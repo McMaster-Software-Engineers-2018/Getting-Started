@@ -5,7 +5,9 @@ With the entire class in one organization, you can easily find the GitHub profil
 
 ## Collaborate on Software Projects
 Creating a repository here will allow other students to join in!
+
 &nbsp;
+
 
 *Have an interesting idea for a project but don't know where to start?*  
 
