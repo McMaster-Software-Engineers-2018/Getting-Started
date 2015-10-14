@@ -24,4 +24,4 @@ Click `Issues` at the top right of this page, then click the big green button th
  
  
 ###### Everything on this GitHub is public and acts of academic dishonesty will NOT be tolerated.
-###### Abuse of administrator privileges (such as defacing code, wrongly deleting, etc.) will lead to reduced privleges and potentially removal from the organization.
+###### Abuse of administrator privileges (such as defacing code, wrongly deleting, etc.) will lead to reduced privileges and potentially removal from the organization.
