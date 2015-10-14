@@ -9,4 +9,8 @@ Creating a repository here will allow other students to join in!
 ###Have an interesting idea for a project but don't know where to start?  
 Just create a new repository and pitch your idea in the README.md!
 
+
+ 
+ 
+ 
 ###### NOTE: Everything on this GitHub is public and acts of academic dishonesty will NOT be tolerated.
