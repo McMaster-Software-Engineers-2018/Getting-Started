@@ -9,7 +9,13 @@ Creating a repository here will allow other students to join in!
 ###Have an interesting idea for a project but don't know where to start?  
 Just create a new repository and pitch your idea in the README.md!
 
+&nbsp;
 
+&nbsp;
+
+&nbsp;
+
+&nbsp;
  
  
  
