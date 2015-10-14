@@ -4,11 +4,11 @@
 With the entire class in one organization, you can easily find the GitHub profiles of others.  
 
 ## Collaborate on Software Projects
-Creating a repository here will allow other students to join in!
+Creating a `repository` here will allow other students to join in!
 
 _Have an interesting idea for a project but don't know where to start?_
 
-Just create a new repository and pitch your idea in a new Issue in this repository.
+Just create a new `repository` and pitch your idea in a new `issue` in this `repository`.
 
 ## New To GitHub?
 Github is the most popular way to share and collaborate on code right now, but can seem a little strange at first.  
