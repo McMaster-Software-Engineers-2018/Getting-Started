@@ -15,7 +15,7 @@ Github is the most popular way to share and collaborate on code right now, but c
 
 First try one of the many great tutorials out there and, if you're still stumped, try raising an `issue` here!
 
-Click `Issues` at the top right of this page, then click the big green button that says `New issue`.
+Click <a href="https://github.com/McMaster-Software-Engineers-2018/Main/issues">`Issues`</a> at the top right of this page, then click the big green button that says `New issue`.
 
 &nbsp;
 
